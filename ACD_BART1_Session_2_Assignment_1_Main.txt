@@ -1,0 +1,77 @@
+﻿Session 2 – Introduction
+    Assignment - 1
+Contents
+
+  Introduction ..................................................................................................................................................... 2
+
+  Objective .......................................................................................................................................................... 2
+
+  Prerequisites .................................................................................................................................................... 2
+
+  Associated Data Files ....................................................................................................................................... 2
+
+  Problem Statement ......................................................................................................................................... 2
+
+  Expected Output .............................................................................................................................................. 3
+
+
+
+
+   Copyrights© 2017, AcadGild. All Rights Reserved                                                                                                                1
+   Introduction
+This assignment will help you to understand the key concepts learnt in this session.
+
+
+   Objective
+This assignment will test your skills on the basics of functions in R.
+
+
+   Prerequisites
+Not Applicable
+
+
+   Associated Data Files
+Not Applicable
+
+
+Problem Statement
+
+1. What are the different methods to call a function in R?
+
+Answer: 
+1. Anonymous Functions
+2. Nested function
+3. User defined functions (UDF)
+
+2. The lazy evaluation of a function means, the argument is evaluated only if it is evaluated only if it is used inside the body of the function. Say True or False.
+
+Answer- TRUE. Reason: Lazy evaluation or call-by-need is a form of non-strict evaluation in which arguments are not evaluated until required.
+
+ 
+
+3. State True or False:
+
+a. Insights driven from descriptive analytics is not meaningful.
+Answer- FALSE. Descriptive Analytics or insigt into past, yeilds meaningful information using historical data
+
+b. The number of values in each Elements of a list, should be equal.
+Answer- FALSE
+
+c. The datasets are not stored in memory of the computer using R.
+Answer- FALSE
+
+d. Data frames and matrices are two dimensional however the array is multidimensional.
+Answer- TRUE
+
+
+
+
+  Copyrights© 2017, AcadGild. All Rights Reserved                                                            2
+   Expected Output
+Not Applicable
+
+
+
+
+  Copyrights© 2017, AcadGild. All Rights Reserved   3
+
